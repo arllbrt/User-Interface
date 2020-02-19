@@ -64,3 +64,74 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*header, section, nav, footer {
+	border: 1px solid red;
+	margin: 3px;
+	
+}
+*/
+header {
+	display: inline-block;
+	box-sizing: border-box;
+	
+}
+ 
+nav {
+	display: inline-block;
+	word-spacing: 120px; 
+	box-sizing: border-box;
+	margin-left: 100px;
+	margin-top: 30px;
+	color: gray;
+}
+
+.sect2 {
+	display: inline-block;
+}
+
+.sect3 {
+	display: inline-block;
+}
+
+.logo {
+	margin-left: 250px;
+	margin-top: 20px;
+	box-sizing: border-box;
+	position: absolute;
+}
+
+.sect1 h1 {
+	margin-top: 100px;
+	margin-right: 700px;
+	font-size: 100px;
+	word-spacing: 100vw;
+	text-align: center;
+}
+
+.circle {
+	margin-left: 1000px;
+	
+}
+
+button {
+	width: 200px;
+	height: 40px;
+	font-size: 20px;
+	background-color: white;
+	color: gray;
+	border: 1px solid black;
+
+}
+
+.button {
+	margin-left: 222px;
+	margin-top: 20px;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+ section, nav, {
+	 border: 1px solid red;
+ } 

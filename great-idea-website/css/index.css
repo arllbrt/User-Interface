@@ -64,3 +64,175 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*header, section, nav, footer {
+	border: 1px solid red;
+	margin: 3px;
+	
+}
+*/
+header {
+	display: inline-block;
+	box-sizing: border-box;
+	margin-left: 100px;
+}
+ 
+nav {
+	display: inline-block;
+	word-spacing: 100px; 
+	box-sizing: border-box;
+	margin-left: 100px;
+	margin-top: 30px;
+	color: gray;
+}
+
+.sect2 {
+	display: inline-block;
+}
+
+.sect3 {
+	display: inline-block;
+}
+
+button {
+	width: 200px;
+	height: 40px;
+	font-size: 20px;
+	background-color: white;
+	color: gray;
+	border: 1px solid black;
+}
+
+.button {
+	margin-left: 300px;
+	margin-top: -50px;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+ .copyright {
+	 margin-left: 45%;
+ }
+
+ .sect1 {
+	 padding-left: 50px;
+	 margin-top: 75px;
+	 
+ }
+
+ .i {
+	 height: 300px;
+	 width: 400px;
+	 margin-left: 150px;
+	 margin-bottom: 40px;
+	 box-sizing: border-box;
+ }
+
+ .circle {
+	 padding-left: 50px;
+ }
+
+.logo {
+	margin-left: 100px;
+	margin-top: 20px;
+	box-sizing: border-box;
+	position: absolute;
+}
+
+a:link{
+	color: gray;
+	text-decoration: none;
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	color: limegreen;
+}
+
+button:hover {
+	color: limegreen;
+}
+
+
+h2 {
+	font-size:20px;
+}
+
+.features{
+	display:inline-block;
+	width:49%;
+	white-space: nowrap;
+	
+}
+
+
+.about{
+	display:inline-block;
+	width:49%;
+	white-space: nowrap;
+	margin-left: 1%;
+	padding-left: 30px;
+
+	
+}
+
+.sect2 {
+	margin-left: 260px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+hr {
+	margin-top: 100px;
+	border: 1px solid black;
+	width: 876px;
+	margin-right: 260px;
+}
+
+.services{
+	display:inline-block;
+	width:33%;
+	white-space: nowrap;
+}
+
+.product{
+	display:inline-block;
+	width:33%;
+	white-space: nowrap;
+	padding-left: 8px;
+}
+
+.vision{
+	display:inline-block;
+	width:33%;
+	white-space: nowrap;
+	padding-left: 15px;
+}
+	.picture {
+margin-left: 200px;
+	}
+	
+.sect3 {
+width: 876px;
+margin-left: 200px;
+margin-top: 50px;
+}
+
+.footer {
+	width: 876px;
+	margin-left: 370px;
+	margin-top: 50px;
+}
+
+.sect2 {
+	width: 876px;
+	margin-left: 200px;
+	margin-top: 50px;
+	}
+
+	
